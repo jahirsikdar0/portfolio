@@ -1,0 +1,103 @@
+body {
+	background-image: url('https://assets.about.me/background/users/d/e/v/developerphp_1422214502_49.jpg')
+
+}
+#developer{
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+	height: 450px;
+	width: 850px;
+	background-image: url('https://wallpaperscraft.com/image/lines_dark_uneven_background_69481_1920x1080.jpg')
+
+
+}
+#aboutme{
+	position: relative;
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+	height: 450px;
+	width: 850px;
+	background-image: url('http://www.aimbusiness.nl/images/company/background.jpg')
+}
+#skill{
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+	height: 450px;
+	width: 850px;
+	background-image:url('http://www.lifestyleloans.com.au/wp-content/uploads/Lifestyle-Background.jpg');
+}
+#projects{
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+	height: 450px;
+	width: 850px;
+	background-image:url('https://s-media-cache-ak0.pinimg.com/736x/1b/0d/48/1b0d489bacd690866f7e53d773d9b466.jpg');
+}
+#socialactivities{
+	text-align: center;
+	color: white;
+	font-size: 2rem;
+	height: 450px;
+	width: 850px;
+	background-image:url('http://www.magic4walls.com/wp-content/uploads/2014/01/texture-blue-fonchik-simple-dark-colors-glow-background.jpg');
+}
+
+.easy{
+	margin: 60px;
+
+}
+ul li {
+	color: red;
+	display:block;
+
+}
+#container{
+	
+	margin: 0 auto;
+	width: 950px;
+}
+
+#header{
+	color: white;
+	height: 150px;
+	width: 900px;
+	text-align: center;
+	font-family: sans-serif;
+	background-image: url('https://wallpaperscraft.com/image/grunge_surface_dark_background_18388_2560x1600.jpg')
+}
+
+#footer{
+
+	height: 100px;
+	width: 1100px;
+	background-image: url('http://www.dailymobile.net/wp-content/uploads/2015/02/android-1440x1280-wallpaper-1802.jpg');
+	color: blue;
+	font-text: 3rem;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
